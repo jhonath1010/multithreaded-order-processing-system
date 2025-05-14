@@ -1,0 +1,18 @@
+------- Ordered Products ---------
+---Item 1
+Product ID: 120
+Price: 21100.9
+Quantity: 2
+---Item 2
+Product ID: 121
+Price: 20929.2
+Quantity: 1
+---Item 3
+Product ID: 122
+Price: 20930.2
+Quantity: 3
+---Item 4
+Product ID: 123
+Price: 23177.4
+Quantity: 1
+Total: 149099

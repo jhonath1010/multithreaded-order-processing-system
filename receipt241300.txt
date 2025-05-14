@@ -1,0 +1,14 @@
+------- Ordered Products ---------
+---Item 1
+Product ID: 112
+Price: 21017
+Quantity: 3
+---Item 2
+Product ID: 113
+Price: 20912
+Quantity: 1
+---Item 3
+Product ID: 115
+Price: 20907
+Quantity: 2
+Total: 125777

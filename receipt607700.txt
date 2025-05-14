@@ -1,0 +1,6 @@
+------- Ordered Products ---------
+---Item 1
+Product ID: 105
+Price: 22800
+Quantity: 1
+Total: 22800

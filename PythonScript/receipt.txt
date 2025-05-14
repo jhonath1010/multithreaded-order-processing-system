@@ -1,0 +1,6 @@
+------- Ordered Products ---------
+---Item 1
+Product ID: 112
+Price: 21017
+Quantity: 3
+Total: 63051
