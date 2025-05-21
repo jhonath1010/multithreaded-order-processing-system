@@ -119,23 +119,6 @@ This project demonstrates real-world integration of a multithreaded C++ applicat
 
 ---
 
-## 🗂️ Project Structure
-
-```
-multithreaded-order-processing-system/
-├── include/
-├── src/
-├── receipts/                    # Generated .txt and .pdf files
-├── orders.csv
-├── PythonScript/
-│   └── test.py                  # Converts and emails receipts
-├── ConsoleApplicationOracle.sln
-├── README.md
-└── LICENSE.txt
-```
-
----
-
 ## 🎯 Use Case
 
 A customer with ID `1234` adds 3 products to their cart and checks out.  
